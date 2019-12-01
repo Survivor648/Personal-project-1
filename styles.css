@@ -285,6 +285,7 @@ a.social:hover {
   }
 
   #about .pug-image {
+    margin-top: 1rem;
     box-shadow: 0 0 10px 0 #000;
     border-radius: 10px;
     transition: all .5s;
@@ -326,6 +327,12 @@ a.social:hover {
       -ms-flex-pack: distribute;
       justify-content: space-around;
       margin: 0 auto;
+  }
+
+  #about .flex {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
   }
 
   header {
