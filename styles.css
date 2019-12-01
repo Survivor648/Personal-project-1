@@ -290,6 +290,8 @@ a.social:hover {
     transition: all .5s;
   }
 
+  #home img:hover,
+  #exp img:hover,
   #about img:hover {
     box-shadow: 0 0 10px 0 red;
   }
