@@ -190,7 +190,7 @@ a.social:hover {
   #exp .exp-flex {
     display: flex;
     align-items: center;
-    height: 120vh;
+    height: 110vh;
   }
 
   .flex h1, 
@@ -280,7 +280,7 @@ a.social:hover {
   #about .about-flex {
     display: flex;
     align-items: center;
-    height: 80vh;
+    height: 60vh;
   }
 
   #about .flex .card:nth-child(1) .title-border {
