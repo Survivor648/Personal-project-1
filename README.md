@@ -1,2 +1,2 @@
-# techdegree-project1
+# Personal-project1
  My personal profile
